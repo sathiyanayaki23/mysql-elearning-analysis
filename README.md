@@ -47,7 +47,4 @@ The project consists of three relational tables:
 * GitHub
 * Microsoft Word
 
-## Author
 
-Grace Park
-Aspiring Data Analyst
